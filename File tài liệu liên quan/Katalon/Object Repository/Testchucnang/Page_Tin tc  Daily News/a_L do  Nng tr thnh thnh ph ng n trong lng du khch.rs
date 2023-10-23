@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_L do  Nng tr thnh thnh ph ng n trong lng du khch</name>
+   <tag></tag>
+   <elementGuidId>48aec123-941b-41b8-9d30-8f7bb41b1a8e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#post-279 > header.entry-header > h2.entry-title > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-279']/header/h2/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d924c5c7-7428-467f-9cba-fc8214c81633</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://2051052105phuong.wordpress.com/2023/09/03/ly-do-da-nang-tro-thanh-thanh-pho-dang-den-trong-long-du-khach/</value>
+      <webElementGuid>b2454a5f-9b01-45bd-b5c2-52d3005bfbb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>bookmark</value>
+      <webElementGuid>374d80e7-8349-44a6-991a-8d54823a0145</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lý do Đà Nẵng trở thành thành phố ‘đáng đến’ trong lòng du khách</value>
+      <webElementGuid>cfd41f1e-75e4-4e6c-98f4-663337f0e3a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-279&quot;)/header[@class=&quot;entry-header&quot;]/h2[@class=&quot;entry-title&quot;]/a[1]</value>
+      <webElementGuid>32380a91-382e-448e-af69-0e5ddc72f1c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-279']/header/h2/a</value>
+      <webElementGuid>9f0c7377-419a-4f24-a473-a3a2cf142d97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Lý do Đà Nẵng trở thành thành phố ‘đáng đến’ trong lòng du khách')]</value>
+      <webElementGuid>be576903-1c41-42ed-9ef7-62d8e734a5fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='September 3, 2023'])[6]/following::a[2]</value>
+      <webElementGuid>85d779c5-d1ec-47a8-8cef-be8198949d23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tu viện 1.000 năm tuổi giữa đại dương ra đời từ một giấc mơ'])[1]/following::a[4]</value>
+      <webElementGuid>7383532c-e570-4c8a-b3ab-20a63f2d9592</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='September 3, 2023'])[7]/preceding::a[2]</value>
+      <webElementGuid>421d9c78-afdd-431e-a9ab-9a8bcd7ea7bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UAV Nga tập kích cảng chiến lược ở miền nam Ukraine'])[1]/preceding::a[4]</value>
+      <webElementGuid>8f6098a4-4057-4a14-b053-14c10986636d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lý do Đà Nẵng trở thành thành phố ‘đáng đến’ trong lòng du khách']/parent::*</value>
+      <webElementGuid>3c8d723d-c2b0-4352-be2f-9ded97ff7b42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://2051052105phuong.wordpress.com/2023/09/03/ly-do-da-nang-tro-thanh-thanh-pho-dang-den-trong-long-du-khach/')])[3]</value>
+      <webElementGuid>0eb8fd23-6c0b-4f57-a31e-884f868018c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article[6]/header/h2/a</value>
+      <webElementGuid>afbe5a49-06cd-4fc1-806a-970d0e7cab33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://2051052105phuong.wordpress.com/2023/09/03/ly-do-da-nang-tro-thanh-thanh-pho-dang-den-trong-long-du-khach/' and (text() = 'Lý do Đà Nẵng trở thành thành phố ‘đáng đến’ trong lòng du khách' or . = 'Lý do Đà Nẵng trở thành thành phố ‘đáng đến’ trong lòng du khách')]</value>
+      <webElementGuid>5521b3b3-95c2-4adc-a34d-6bf1b683d688</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

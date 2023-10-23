@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Bo cp 16 vo Bin ng</name>
+   <tag></tag>
+   <elementGuidId>6f167b77-17a0-4743-8f51-9de084848e69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#post-142 > header.entry-header > h2.entry-title > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-142']/header/h2/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e888c223-c2b3-47c1-a499-67944803bbdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://2051052105phuong.wordpress.com/2023/08/31/bao-cap-16-vao-bien-dong/</value>
+      <webElementGuid>3a9dedd3-7255-4dd8-a3ac-bce0c16a5ee5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>bookmark</value>
+      <webElementGuid>4b1ba744-eb5e-49f5-b0c0-76d36089bf9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bão cấp 16 vào Biển Đông</value>
+      <webElementGuid>a932b193-444e-4b75-947f-d56852e87a60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-142&quot;)/header[@class=&quot;entry-header&quot;]/h2[@class=&quot;entry-title&quot;]/a[1]</value>
+      <webElementGuid>9b1aebb1-e96c-4c0c-b7f9-736961cfeb8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-142']/header/h2/a</value>
+      <webElementGuid>c85670e1-34e8-4424-919a-aaac321c2ac3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Bão cấp 16 vào Biển Đông')]</value>
+      <webElementGuid>148a9b99-0a38-4dfe-9565-25198194339e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='August 31, 2023'])[1]/following::a[2]</value>
+      <webElementGuid>376200b3-223b-4416-a242-a35fc327406e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Máy bay vào vùng nhiễu động, 11 người nhập viện'])[1]/following::a[4]</value>
+      <webElementGuid>525c5ee8-c84f-43d6-b0ac-4ca3257615a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='August 31, 2023'])[2]/preceding::a[2]</value>
+      <webElementGuid>870c1fb0-370d-4303-96f0-e31daa060b7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='September 4, 2023'])[1]/preceding::a[2]</value>
+      <webElementGuid>aeb55558-16f8-429f-870a-8fc451d7f7d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bão cấp 16 vào Biển Đông']/parent::*</value>
+      <webElementGuid>8551f1cd-664e-4185-8e2a-c0704a07a457</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://2051052105phuong.wordpress.com/2023/08/31/bao-cap-16-vao-bien-dong/')])[3]</value>
+      <webElementGuid>9272e9f0-6a9e-4d8a-aa23-858bea57ba94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article[2]/header/h2/a</value>
+      <webElementGuid>1c369b56-b886-46f1-a682-61a91960eec9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://2051052105phuong.wordpress.com/2023/08/31/bao-cap-16-vao-bien-dong/' and (text() = 'Bão cấp 16 vào Biển Đông' or . = 'Bão cấp 16 vào Biển Đông')]</value>
+      <webElementGuid>417c5e65-0fbd-477d-9bfe-eeb2ae8f679d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
